@@ -14,3 +14,5 @@ Currently, two official plugins are available:
 -create Header component
 -create and run the project(backend)
 -npm init -y
+-create mongoose connection
+-create and add model to db
