@@ -16,3 +16,11 @@ Currently, two official plugins are available:
 -npm init -y
 -create mongoose connection
 -create and add model to db
+-create user model
+-create a test API route;
+-create routes folder
+//app.use(express.json());
+-create user using user model.
+-encrypt password using bcrypt js
+
+
