@@ -22,5 +22,8 @@ Currently, two official plugins are available:
 //app.use(express.json());
 -create user using user model.
 -encrypt password using bcrypt js
+-complete the sign up page functionality
+-complete the sign in page functionality
+
 
 
